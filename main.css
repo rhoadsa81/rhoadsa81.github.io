@@ -50,6 +50,9 @@ body div {
     height: 4.5in;
     }
 
+ul li{
+	display: inline;
+}
 
 
 /*Wording Throughout*/
