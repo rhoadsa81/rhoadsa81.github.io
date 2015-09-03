@@ -24,7 +24,7 @@ body div {
     max-width: 62.5rem;
 }
 .link{
-	text-decoration: underline;
+	text-decoration: none;
 }
 
 #header {  /* adjusts initial banner */
