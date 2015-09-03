@@ -23,7 +23,9 @@ body div {
     margin-bottom: 0;
     max-width: 62.5rem;
 }
-
+#link{
+	text-decoration: underline;
+}
 
 #header {  /* adjusts initial banner */
     background: darkred;
