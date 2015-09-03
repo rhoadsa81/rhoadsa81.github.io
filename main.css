@@ -52,6 +52,8 @@ body div {
 
 ul li{
 	display: inline;
+	list-style: none;
+	list-style-type: none;
 }
 
 
