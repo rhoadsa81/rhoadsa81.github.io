@@ -23,7 +23,7 @@ body div {
     margin-bottom: 0;
     max-width: 62.5rem;
 }
-#link{
+.link{
 	text-decoration: underline;
 }
 
