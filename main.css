@@ -50,12 +50,17 @@ body div {
     height: 4.5in;
     }
 
-ul li{
+ul{
 	display: inline;
 	list-style: none;
 	list-style-type: none;
 }
 
+li{
+	display: inline;
+	list-style: none;
+	list-style-type: none;
+}
 
 /*Wording Throughout*/
 h1 {
