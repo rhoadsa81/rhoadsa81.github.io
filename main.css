@@ -21,8 +21,9 @@ body div {
  font-weight: bold;
 }
 
+/* color of link (after it has been clicked?) */
 a{
-	color: black;
+	color: white;
 }
 
 .row {
