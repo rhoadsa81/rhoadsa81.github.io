@@ -26,6 +26,7 @@ body div {
 .link{
 	text-decoration: none;
 	color: black;
+	font-weight: bold;
 }
 
 #header {  /* adjusts initial banner */
