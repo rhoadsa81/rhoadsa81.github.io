@@ -23,11 +23,6 @@ body div {
     margin-bottom: 0;
     max-width: 62.5rem;
 }
-.link{
-	text-decoration: none;
-	color: black;
-	font-weight: bold;
-}
 
 #header {  /* adjusts initial banner */
     background: darkred;
