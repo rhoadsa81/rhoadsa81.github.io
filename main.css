@@ -16,8 +16,11 @@ body div {
 }
 
 .img-sprite{
+	width: 100px;
+	height: 100px;
 	background-size: cover;
-	background-position:50%;
+	background-position:center center;
+	background-repeat: no-repeat;
 }
 
 .link{  
