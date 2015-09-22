@@ -15,6 +15,10 @@ body div {
 	text-align: center;
 }
 
+.img-sprite{
+	max-width: none!important;
+}
+
 .link{  
  color: white;
  text-decoration: none;
