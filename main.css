@@ -16,9 +16,8 @@ body div {
 }
 
 .img-sprite{
-	height: 50px;
-	width: 50px;
-	object-fit:contain;
+	background-size: cover;
+	background-position:50%;
 }
 
 .link{  
