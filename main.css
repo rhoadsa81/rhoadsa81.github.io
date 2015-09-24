@@ -14,38 +14,45 @@ body {
 body div {  
 	text-align: center;
 }
-
-.cloud-14 {
-    top: 40%;
-    opacity: 0.75;
-    -webkit-transform: scale(0.75);
-    -moz-transform: scale(0.75);
-    transform: scale(0.75);
-    -webkit-animation: moveclouds 26s linear infinite;
-    -moz-animation: moveclouds 26s linear infinite;
-    -o-animation: moveclouds 26s linear infinite;
-    animation: moveclouds 26s linear infinite;
-    animation-name: moveclouds;
-    animation-duration: 26s;
-    animation-timing-function: linear;
-    animation-delay: 8s;
-    animation-iteration-count: infinite;
-    animation-direction: initial;
-    animation-fill-mode: initial;
-    animation-play-state: initial;
-    -webkit-animation-delay: 8s;
-    -moz-animation-delay: 8s;
-    animation-delay: 8s;
+/* clouds on intro page */
+#clouds{
+	padding: 100px 0;
+	background: #c9dbe9;
+	background: -webkit-linear-gradient(top, #c9dbe9 0%, #fff 100%);
+	background: -linear-gradient(top, #c9dbe9 0%, #fff 100%);
+	background: -moz-linear-gradient(top, #c9dbe9 0%, #fff 100%);
 }
 
-[class^="cloud-"] {
-    position: absolute;
-    right: 120%;
-    width: 200px;
-    height: 60px;
-    background: #fff;
-    -webkit-border-radius: 200px;
-    border-radius: 200px;
+.cloud {
+	width: 200px; height: 60px;
+	background: #fff;
+	
+	border-radius: 200px;
+	-moz-border-radius: 200px;
+	-webkit-border-radius: 200px;
+	
+	position: relative; 
+}
+
+.cloud:before, .cloud:after {
+	content: '';
+	position: absolute; 
+	background: #fff;
+	width: 100px; height: 80px;
+	position: absolute; top: -15px; left: 10px;
+	
+	border-radius: 100px;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+	
+	-webkit-transform: rotate(30deg);
+	transform: rotate(30deg);
+	-moz-transform: rotate(30deg);
+}
+
+.cloud:after {
+	width: 120px; height: 120px;
+	top: -55px; left: auto; right: 15px;
 }
 
 
