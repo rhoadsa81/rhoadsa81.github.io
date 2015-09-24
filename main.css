@@ -15,6 +15,30 @@ body div {
 	text-align: center;
 }
 
+.cloud-14 {
+    top: 40%;
+    opacity: 0.75;
+    -webkit-transform: scale(0.75);
+    -moz-transform: scale(0.75);
+    transform: scale(0.75);
+    -webkit-animation: moveclouds 26s linear infinite;
+    -moz-animation: moveclouds 26s linear infinite;
+    -o-animation: moveclouds 26s linear infinite;
+    animation: moveclouds 26s linear infinite;
+    animation-name: moveclouds;
+    animation-duration: 26s;
+    animation-timing-function: linear;
+    animation-delay: 8s;
+    animation-iteration-count: infinite;
+    animation-direction: initial;
+    animation-fill-mode: initial;
+    animation-play-state: initial;
+    -webkit-animation-delay: 8s;
+    -moz-animation-delay: 8s;
+    animation-delay: 8s;
+}
+
+
 .imgs{
 	width: 100px;
 	height: 100px;
