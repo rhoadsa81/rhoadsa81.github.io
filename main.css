@@ -120,16 +120,16 @@ body div {
 
 
 @-webkit-keyframes moveclouds {
-	0% {margin-left: 100px;}
-	100% {margin-left: -100px;}
+	0% {margin-left: 500px;}
+	100% {margin-left: -500px;}
 }
 @-moz-keyframes moveclouds {
-	0% {margin-left: 100px;}
-	100% {margin-left: -100px;}
+	0% {margin-left: 500px;}
+	100% {margin-left: -500px;}
 }
 @-o-keyframes moveclouds {
-	0% {margin-left: 100px;}
-	100% {margin-left: -100px;}
+	0% {margin-left: 500px;}
+	100% {margin-left: -500px;}
 }
 
 
