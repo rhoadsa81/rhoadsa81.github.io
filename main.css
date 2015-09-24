@@ -15,6 +15,7 @@ body div {
 	text-align: center;
 }
 /* clouds on intro page */
+
 #clouds{
 	padding: 100px 0;
 	background: #c9dbe9;
@@ -114,6 +115,8 @@ body div {
 	-moz-animation: moveclouds 20s linear infinite;
 	-o-animation: moveclouds 20s linear infinite;
 }
+/* end of clouds */
+
 
 @-webkit-keyframes moveclouds {
 	0% {margin-left: 1000px;}
