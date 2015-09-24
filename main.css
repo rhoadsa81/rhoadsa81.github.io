@@ -38,6 +38,16 @@ body div {
     animation-delay: 8s;
 }
 
+[class^="cloud-"] {
+    position: absolute;
+    right: 120%;
+    width: 200px;
+    height: 60px;
+    background: #fff;
+    -webkit-border-radius: 200px;
+    border-radius: 200px;
+}
+
 
 .imgs{
 	width: 100px;
