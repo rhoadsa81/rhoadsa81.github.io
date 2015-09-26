@@ -145,8 +145,8 @@ body div {
  color: white;
  text-decoration: none;
  font-weight: bold;
- z-index: 900;
  position: relative;
+ z-index: 900;
 }
 
 /* color of link (after it has been clicked?) */
@@ -233,6 +233,7 @@ h1, h2, h3, h4{
  text-decoration: none;
  display: inline-block;
  font-weight: bold;
+ position: relative;
  z-index:900;
  
 }
