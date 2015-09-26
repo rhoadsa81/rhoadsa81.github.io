@@ -184,9 +184,7 @@ a{
 	width: 125px;
 	height: 125;
 	position:relative;
-	background-size: cover;
-	background-position:center center;
-	background-repeat: no-repeat;
+	
 }
 
 ul{
