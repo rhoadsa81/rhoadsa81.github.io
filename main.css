@@ -146,6 +146,7 @@ body div {
  text-decoration: none;
  font-weight: bold;
  z-index: 900;
+ position: relative;
 }
 
 /* color of link (after it has been clicked?) */
