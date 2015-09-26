@@ -62,7 +62,7 @@ body div {
 	-webkit-animation: moveclouds 15s linear infinite;
 	-moz-animation: moveclouds 15s linear infinite;
 	-o-animation: moveclouds 15s linear infinite;
-	opacity: .9;
+	opacity: .8;
 }
 
 .x2 {
