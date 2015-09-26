@@ -145,6 +145,7 @@ body div {
  color: white;
  text-decoration: none;
  font-weight: bold;
+ z-inde: 10;
 }
 
 /* color of link (after it has been clicked?) */
