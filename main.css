@@ -184,7 +184,14 @@ a{
 .image img {
     width: 100%;
     height: 4.5in;
-    }
+}
+
+.imgs {
+	margin: 8px;
+	width: 125px;
+	height: 125;
+	position:relative;
+}
 
 ul{
 	display: inline;
