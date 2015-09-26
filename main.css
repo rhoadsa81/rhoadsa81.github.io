@@ -133,13 +133,6 @@ body div {
 }
 /* end of clouds */
 
-.imgs{
-	width: 100px;
-	height: 100px;
-	background-size: cover;
-	background-position:center center;
-	background-repeat: no-repeat;
-}
 
 .link{  
  color: white;
@@ -191,6 +184,9 @@ a{
 	width: 125px;
 	height: 125;
 	position:relative;
+	background-size: cover;
+	background-position:center center;
+	background-repeat: no-repeat;
 }
 
 ul{
