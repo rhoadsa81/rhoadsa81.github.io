@@ -9,7 +9,6 @@ body {
     line-height: 1;
     position: relative;
     cursor: default;
-    overflow: hidden;
 }
 
 body div {  
