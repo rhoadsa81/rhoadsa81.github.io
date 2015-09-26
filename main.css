@@ -17,9 +17,10 @@ body div {
 }
 
 /* clouds on intro page */
-*{
+/*{
 	margin: 0%;
-}
+} */
+
 #clouds{
 	padding: 100px 0;
 }
