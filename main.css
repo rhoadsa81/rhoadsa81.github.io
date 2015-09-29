@@ -174,7 +174,10 @@ a{
     height: 4.5in;
 }
 
-
+.image{
+	float:left;
+	margin: 90px;
+}
 
 .imgs {
 	margin: 8px;
