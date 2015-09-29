@@ -174,9 +174,9 @@ a{
 	margin: 90px; /* top right bottom left *//*single = all values */
 }
 
-.image img {
-    width: 100%;
-    height: 4.5in;
+.image{
+    width: 300px;
+    height: auto;
 }
 
 .imgs {
