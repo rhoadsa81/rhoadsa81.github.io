@@ -171,8 +171,8 @@ a{
 
 
 .image{
-    width: 300px;
-    height: auto;
+    width: 300px !important;
+    height: auto !important;
     margin: auto auto; /* top right bottom left *//*single = all values */
     
 
