@@ -170,14 +170,6 @@ a{
 } */
 
 
-.image{
-    width: 300px !important;
-    height: auto !important;
-    margin: auto auto; /* top right bottom left *//*single = all values */
-    
-
-}
-
 .imgs {
 	margin: 8px;
 	width: 125px;
