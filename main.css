@@ -169,14 +169,12 @@ a{
     width: 30%;
 } */
 
-.image{
-    float:left;
-	margin: 90px; /* top right bottom left *//*single = all values */
-}
 
 .image{
     width: 300px;
     height: auto;
+    	margin: 90px; /* top right bottom left *//*single = all values */
+
 }
 
 .imgs {
