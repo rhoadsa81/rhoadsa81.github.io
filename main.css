@@ -132,14 +132,7 @@ body div {
 	100% {margin-left: -500px;}
 }
 /* end of clouds */
-.outer{
-    width: 500px;
-    height: 500px;
-    /*height: 100%;
-    width: 100%;*/
-    background: hotpink;
-    overflow:hidden;
-}
+
 .box{
     width: 250px;
     /*width: 50%;*/
@@ -153,7 +146,7 @@ body div {
     transitions: all 0.8s ease;
     background: rgba(0, 0, 0, 0.5);
 }
-.outer:hover > .box{
+.row:hover > .box{
     margin: 0;
 }
 .box p{
