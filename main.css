@@ -139,8 +139,8 @@ background: rgba(0,0,0,0.5);
 width:250px;
 height:500px;
 margin-left:-250;
--webkit-transition: all 0.25s ease;
-transitions: all 0.25s ease;
+-webkit-transition: width 0.25s ;
+transitions: width 0.25s;
 }
 
 #wrapper:hover .text {
