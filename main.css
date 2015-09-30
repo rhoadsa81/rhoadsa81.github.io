@@ -136,14 +136,14 @@ body div {
 #wrapper .text {
 visibility:hidden;
 background: rgba(0,0,0,0.5);
+position:absolute;
+top: 50%;
+left: 100%;
 width:250px;
 height:500px;
 margin-left:-250;
 -webkit-transition: width 0.25s ;
 transitions: width 0.25s;
-position:absolute;
-top: 50%;
-left: 50%;
 }
 
 #wrapper:hover .text {
