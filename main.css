@@ -133,27 +133,7 @@ body div {
 }
 /* end of clouds */
 
-.box{
-    width: 250px;
-    /*width: 50%;*/
-    height: 500px;
-    /*height: 100%;*/
-    margin-left: -250px;
-    /*margin-left: -50%;*/
-    -webkit-transition: all 0.8s ease;
-    -moz-transition: all 0.8s ease;
-    -o-transition: all: 0.8s ease;
-    transitions: all 0.8s ease;
-    background: rgba(0, 0, 0, 0.5);
-}
-.row:hover > .box{
-    margin: 0;
-}
-.box p{
-    color: white;
-    margin: 0;
-    padding: 5px 0 5px 0;
-}
+
 
 
 .link{  
