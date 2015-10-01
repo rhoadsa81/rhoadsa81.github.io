@@ -137,7 +137,7 @@ body div {
 #wrapper .text {
 visibility:hidden;
 background: rgba(0,0,0,0.5);
-position:fixed;
+position: absolute;
 top: 50%;
 left: 100%;
 width:auto;
