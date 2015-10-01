@@ -145,6 +145,7 @@ height:500px;
 margin-left:-250;
 -webkit-transition: width 0.25s ;
 transitions: width 0.25s;
+z-index: 100;
 }
 
 #wrapper:hover .text {
