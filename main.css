@@ -133,10 +133,11 @@ body div {
 }
 /* end of clouds */
 
+/*text boxes*/
 #wrapper .text {
 visibility:hidden;
 background: rgba(0,0,0,0.5);
-position:absolute;
+position:fixed;
 top: 50%;
 left: 100%;
 width:auto;
