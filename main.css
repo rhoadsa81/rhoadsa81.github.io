@@ -211,6 +211,8 @@ a{
 
 .listimg {
 	display: inline-block;
+	position: absolute;
+	right: 0px;
 	
 }
 
