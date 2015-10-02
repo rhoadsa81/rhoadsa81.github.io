@@ -211,7 +211,7 @@ a{
 
 .listimg {
 	display: inline-block;
-	position: absolute;
+	position: relative;
 	right: 0px;
 	
 }
