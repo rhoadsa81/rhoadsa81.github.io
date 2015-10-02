@@ -140,7 +140,7 @@ background: rgba(0,0,0,0.5);
 position: absolute;
 top: 50%;
 left: 100%;
-width:1000;
+width:auto;
 height:auto;
 margin-left:-250;
 -webkit-transition: width 0.25s ;
