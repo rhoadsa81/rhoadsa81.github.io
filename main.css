@@ -152,6 +152,9 @@ z-index: 100;
 visibility:visible;
 }
 
+li{
+	display: list-item;
+}
 
 .link{  
  color: white;
