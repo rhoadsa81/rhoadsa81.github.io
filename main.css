@@ -209,8 +209,7 @@ a{
 }
 
 ul{
-	display: block;
-	list-style: none;
+	
 	list-style-type: disc;
 	list-style-position: inside;
 }
