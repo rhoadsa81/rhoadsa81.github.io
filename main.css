@@ -214,17 +214,12 @@ a{
 	
 }
 
-ul{
+.text ul{
 	display: inline;
 	list-style: none;
-	list-style-type: none;
+	list-style-type: disc;
 }
 
-li{
-	display: inline;
-	list-style: none;
-	list-style-type: none;
-}
 
 /*Wording Throughout*/
 h1 {
