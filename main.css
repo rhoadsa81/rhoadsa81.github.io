@@ -209,6 +209,12 @@ a{
 	
 }
 
+.listimg {
+	display: inline-block;
+	
+}
+
+
 ul{
 	
 	list-style-type: disc;
