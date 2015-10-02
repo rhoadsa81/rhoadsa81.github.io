@@ -147,6 +147,7 @@ margin-right: 500;
 -webkit-transition: width 0.25s ;
 transitions: width 0.25s;
 z-index: 100;
+text-align: left;
 }
 
 #wrapper:hover .text {
