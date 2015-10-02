@@ -142,7 +142,7 @@ top: 50%;
 left: 100%;
 width:800px;
 height:auto;
-margin-left:-600;
+margin-left:-500;
 -webkit-transition: width 0.25s ;
 transitions: width 0.25s;
 z-index: 100;
