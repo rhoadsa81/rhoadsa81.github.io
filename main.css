@@ -212,7 +212,7 @@ a{
 .listimg {
 	display: inline-block;
 	position: relative;
-	right: 0px;
+	float: right;
 	
 }
 
