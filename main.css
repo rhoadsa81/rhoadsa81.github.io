@@ -153,12 +153,6 @@ z-index: 100;
 visibility:visible;
 }
 
-li{
-	display: inline;
-	margin:0;
-	padding:0;
-	list-style-type:none;
-}
 
 .link{  
  color: white;
@@ -214,7 +208,7 @@ a{
 	
 }
 
-.text ul{
+ul{
 	display: inline;
 	list-style: none;
 	list-style-type: disc;
