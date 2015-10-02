@@ -230,7 +230,7 @@ h3 {
  margin-top: .025px;
  font-size: 3.5em;
  color: blue;
- text-align: center;
+ text-align: center; !important
 }
 h4 {
  margin-bottom: .25px;
