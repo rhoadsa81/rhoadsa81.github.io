@@ -9,6 +9,8 @@ body {
     line-height: 1;
     position: relative;
     cursor: default;
+    overflow-y: scroll;
+    overflow-x: hidden;
 }
 
 body div {  
