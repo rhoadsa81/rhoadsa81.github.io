@@ -121,7 +121,13 @@ body div {
 
 @-webkit-keyframes moveclouds {
 	0% {left: 1000px;}
-	100% {left: -500px;}
+	50% {left: -500px;}
+	100% {left: 1000px;}
+}
+@keyframes moveclouds {
+	0% {left: 1000px;}
+	50% {left: -500px;}
+	100% {left: 1000px;}
 }
 @-moz-keyframes moveclouds {
 	0% {margin-left: 250px;}
