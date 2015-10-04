@@ -122,22 +122,22 @@ body div {
 }
 
 @-webkit-keyframes moveclouds { /* adjusts the range of the clouds*/
-	0% {left: 1000px;}  /* starting point of clouds*/
+	0% {left: 1250px;}  /* starting point of clouds*/
 	100% {left: -10px;}
 	
 }
 @keyframes moveclouds {
-	0% {left: 1000px;}
+	0% {left: 1250px;}
 	100% {left: -10px;}
 	
 }
 @-moz-keyframes moveclouds {
-	0% {margin-left: 250px;}
-	100% {margin-left: -500px;}
+	0% {margin-left: 1250px;}
+	100% {margin-left: -10px;}
 }
 @-o-keyframes moveclouds {
-	0% {margin-left: 500px;}
-	100% {margin-left: -500px;}
+	0% {margin-left: 1250px;}
+	100% {margin-left: -510px;}
 }
 /* end of clouds */
 
