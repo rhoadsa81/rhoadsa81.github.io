@@ -17,6 +17,10 @@ body div {
 	text-align: center;
 }
 
+table {
+	padding-top: 20px;
+}
+
 /* clouds on intro page */
 
 #clouds{
