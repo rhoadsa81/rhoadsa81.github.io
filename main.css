@@ -128,12 +128,12 @@ table {
 
 @-webkit-keyframes moveclouds { /* adjusts the range of the clouds*/
 	0% {left: 1050px;}  /* starting point of clouds*/
-	100% {left: -30px;} /* ending point of clouds */
+	100% {left: -100px;} /* ending point of clouds */
 	
 }
 @keyframes moveclouds {
 	0% {left: 1050px;}
-	100% {left: -30px;}
+	100% {left: -100px;}
 	
 }
 @-moz-keyframes moveclouds {
