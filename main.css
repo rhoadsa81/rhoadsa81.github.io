@@ -167,7 +167,7 @@ text-align: left;
 visibility:visible;
 }
 
-.solidworks #wrapper{
+.solidworks #wrapper .text{
 	margin: -62px;
 }
 
