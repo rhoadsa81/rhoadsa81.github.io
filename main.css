@@ -158,8 +158,8 @@ height:auto;
 margin-top:-64px;
 margin-left:-500;
 margin-right: 500;
--webkit-transition: width 0.25s ;
-transitions: width 0.25s;
+-webkit-transition: width 1.25s ;
+transitions: width 1.25s;
 z-index: 100;
 text-align: left;
 }
