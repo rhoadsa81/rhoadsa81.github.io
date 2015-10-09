@@ -167,8 +167,25 @@ text-align: left;
 visibility:visible;
 }
 
-.solidworks{
-	margin-top: -62px;
+#wrapper .textsolidworks {
+visibility:hidden;
+background: rgba(0,0,0,0.5);
+position: absolute;
+top: 50%;
+left: 100%;
+width:750px;
+height:auto;
+margin-top:-64px;
+margin-left:-500;
+margin-right: 500;
+-webkit-transition: width 0.25s ;
+transitions: width 0.25s;
+z-index: 100;
+text-align: left;
+}
+
+#wrapper:hover .textsolidworks {
+visibility:visible;
 }
 
 .link{  
