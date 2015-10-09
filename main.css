@@ -164,9 +164,6 @@ z-index: 100;
 text-align: left;
 }
 
-#wrapper:hover .text {
-visibility:visible;
-}
 
 #wrapper .textmatlab {
 visibility:hidden;
@@ -176,7 +173,7 @@ top: 50%;
 left: 100%;
 width:750px;
 height:auto;
-margin-top:-64px;
+margin-top:-209px;
 margin-left:-500;
 margin-right: 500;
 -webkit-transition: width 0.25s ;
@@ -256,6 +253,11 @@ transitions: width 0.25s;
 z-index: 100;
 text-align: left;
 }
+
+#wrapper:hover .text {
+visibility:visible;
+}
+
 
 .link{  
  color: white;
