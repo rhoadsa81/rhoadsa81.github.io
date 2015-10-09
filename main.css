@@ -147,26 +147,6 @@ table {
 /* end of clouds */
 
 /*text boxes*/
-#wrapper .text {
-visibility:hidden;
-background: rgba(0,0,0,0.5);
-position: absolute;
-top: 50%;
-left: 100%;
-width:750px;
-height:auto;
-margin-left:-500;
-margin-right: 500;
--webkit-transition: width 0.25s ;
-transitions: width 0.25s;
-z-index: 100;
-text-align: left;
-}
-
-#wrapper:hover .text {
-visibility:visible;
-}
-
 #wrapper .textsolidworks {
 visibility:hidden;
 background: rgba(0,0,0,0.5);
@@ -184,8 +164,97 @@ z-index: 100;
 text-align: left;
 }
 
-#wrapper:hover .textsolidworks {
+#wrapper:hover .text {
 visibility:visible;
+}
+
+#wrapper .textmatlab {
+visibility:hidden;
+background: rgba(0,0,0,0.5);
+position: absolute;
+top: 50%;
+left: 100%;
+width:750px;
+height:auto;
+margin-top:-64px;
+margin-left:-500;
+margin-right: 500;
+-webkit-transition: width 0.25s ;
+transitions: width 0.25s;
+z-index: 100;
+text-align: left;
+}
+
+
+#wrapper .textprinting {
+visibility:hidden;
+background: rgba(0,0,0,0.5);
+position: absolute;
+top: 50%;
+left: 100%;
+width:750px;
+height:auto;
+margin-top:-64px;
+margin-left:-500;
+margin-right: 500;
+-webkit-transition: width 0.25s ;
+transitions: width 0.25s;
+z-index: 100;
+text-align: left;
+}
+
+
+#wrapper .textweb {
+visibility:hidden;
+background: rgba(0,0,0,0.5);
+position: absolute;
+top: 50%;
+left: 100%;
+width:750px;
+height:auto;
+margin-top:-64px;
+margin-left:-500;
+margin-right: 500;
+-webkit-transition: width 0.25s ;
+transitions: width 0.25s;
+z-index: 100;
+text-align: left;
+}
+
+
+#wrapper .textwm {
+visibility:hidden;
+background: rgba(0,0,0,0.5);
+position: absolute;
+top: 50%;
+left: 100%;
+width:750px;
+height:auto;
+margin-top:-64px;
+margin-left:-500;
+margin-right: 500;
+-webkit-transition: width 0.25s ;
+transitions: width 0.25s;
+z-index: 100;
+text-align: left;
+}
+
+
+#wrapper .textarduino {
+visibility:hidden;
+background: rgba(0,0,0,0.5);
+position: absolute;
+top: 50%;
+left: 100%;
+width:750px;
+height:auto;
+margin-top:-64px;
+margin-left:-500;
+margin-right: 500;
+-webkit-transition: width 0.25s ;
+transitions: width 0.25s;
+z-index: 100;
+text-align: left;
 }
 
 .link{  
