@@ -152,8 +152,7 @@ table {
 
 div.RCI{
 	z-index: 10;
-	margin-top: -100px;
-	margin: auto auto;
+	margin: auto;
 	width: 500px;
 	height: auto;
 	opacity:0;
