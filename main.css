@@ -146,13 +146,12 @@ table {
 }
 /* end of clouds */
 
-#RCI {
-	visibility:hidden;
-	background: url('https://lh6.googleusercontent.com/-wUK9dqDMgWI/Vehq7hbE4GI/AAAAAAAAAjs/tgnJovTiBjc/w860-h484-no/iso%2Bfront.jpg');
-}
+
 
 #RCI:hover  {
-visibility:visible;
+
+	background: url('https://lh6.googleusercontent.com/-wUK9dqDMgWI/Vehq7hbE4GI/AAAAAAAAAjs/tgnJovTiBjc/w860-h484-no/iso%2Bfront.jpg');
+
 }
 
 /*text boxes*/
