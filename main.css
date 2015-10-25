@@ -180,7 +180,7 @@ margin-top:-64px;
 margin-left:-500;
 margin-right: 500;
 -webkit-transition: width 5.25s ;
-transitions: width 5.25s;
+transition: width 5.25s;
 z-index: 100;
 text-align: left;
 }
@@ -198,7 +198,7 @@ margin-top:-216px;
 margin-left:-500;
 margin-right: 500;
 -webkit-transition: width 0.25s ;
-transitions: width 0.25s;
+transition: width 0.25s;
 z-index: 100;
 text-align: left;
 }
@@ -216,7 +216,7 @@ margin-top:-369px;
 margin-left:-500;
 margin-right: 500;
 -webkit-transition: width 0.25s ;
-transitions: width 0.25s;
+transition: width 0.25s;
 z-index: 100;
 text-align: left;
 }
@@ -234,7 +234,7 @@ margin-top:-522px;
 margin-left:-500;
 margin-right: 500;
 -webkit-transition: width 0.25s ;
-transitions: width 0.25s;
+transition: width 0.25s;
 z-index: 100;
 text-align: left;
 }
@@ -252,7 +252,7 @@ margin-top:-675px;
 margin-left:-500;
 margin-right: 500;
 -webkit-transition: width 0.25s ;
-transitions: width 0.25s;
+transition: width 0.25s;
 z-index: 100;
 text-align: left;
 }
@@ -270,14 +270,14 @@ margin-top:-828px;
 margin-left:-500;
 margin-right: 500;
 -webkit-transition: width 0.25s ;
-transitions: width 0.25s;
+transition: width 0.25s;
 z-index: 100;
 text-align: left;
 }
 
 #wrapper:hover .text {
 visibility:visible;
-transition: 180s;
+
 }
 
 
