@@ -277,6 +277,7 @@ text-align: left;
 
 #wrapper:hover .text {
 visibility:visible;
+transition: 0s 180s;
 }
 
 
