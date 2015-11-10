@@ -205,7 +205,7 @@ margin-right: 500;
 -ms-transition: all .5s ease-in-out;
 -o-transition: all .5s ease-in-out;
 transition: all .5s ease-in-out;
-z-index: 2;
+z-index: 1;
 text-align: left;
 }
 
@@ -226,7 +226,7 @@ margin-right: 500;
 -ms-transition: all .5s ease-in-out;
 -o-transition: all .5s ease-in-out;
 transition: all .5s ease-in-out;
-z-index: 3;
+z-index: 1;
 text-align: left;
 }
 
@@ -247,7 +247,7 @@ margin-right: 500;
 -ms-transition: all .5s ease-in-out;
 -o-transition: all .5s ease-in-out;
 transition: all .5s ease-in-out;
-z-index: 4;
+z-index: 1;
 text-align: left;
 }
 
@@ -268,7 +268,7 @@ margin-right: 500;
 -ms-transition: all .5s ease-in-out;
 -o-transition: all .5s ease-in-out;
 transition: all .5s ease-in-out;
-z-index: 5;
+z-index: 1;
 text-align: left;
 }
 
@@ -289,7 +289,7 @@ margin-right: 500;
 -ms-transition: all .5s ease-in-out;
 -o-transition: all .5s ease-in-out;
 transition: all .5s ease-in-out;
-z-index: 6;
+z-index: 1;
 text-align: left;
 }
 
