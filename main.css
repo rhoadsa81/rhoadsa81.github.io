@@ -170,7 +170,7 @@ div.RCI{
 /*text boxes*/
 #wrapper .textsolidworks {
 visibility:hidden;
-background: rgba(0,0,0,0.1);
+background: rgba(0,0,0,0.5);
 position: absolute;
 top: 50%;
 left: 100%;
@@ -184,14 +184,14 @@ margin-right: 500;
 -ms-transition: all .5s ease-in-out;
 -o-transition: all .5s ease-in-out;
 transition: all .5s ease-in-out;
-z-index: 100; 
+z-index: 1; 
 text-align: left;
 }
 
 
 #wrapper .textmatlab {
 visibility:hidden;
-background: rgba(0,0,0,0.1);
+background: rgba(0,0,0,0.5);
 position: absolute;
 top: 50%;
 left: 100%;
@@ -205,14 +205,14 @@ margin-right: 500;
 -ms-transition: all .5s ease-in-out;
 -o-transition: all .5s ease-in-out;
 transition: all .5s ease-in-out;
-z-index: 100;
+z-index: 2;
 text-align: left;
 }
 
 
 #wrapper .textprinting {
 visibility:hidden;
-background: rgba(0,0,0,0.1);
+background: rgba(0,0,0,0.5);
 position: absolute;
 top: 50%;
 left: 100%;
@@ -226,14 +226,14 @@ margin-right: 500;
 -ms-transition: all .5s ease-in-out;
 -o-transition: all .5s ease-in-out;
 transition: all .5s ease-in-out;
-z-index: 100;
+z-index: 3;
 text-align: left;
 }
 
 
 #wrapper .textweb {
 visibility:hidden;
-background: rgba(0,0,0,0.1);
+background: rgba(0,0,0,0.5);
 position: absolute;
 top: 50%;
 left: 100%;
@@ -247,14 +247,14 @@ margin-right: 500;
 -ms-transition: all .5s ease-in-out;
 -o-transition: all .5s ease-in-out;
 transition: all .5s ease-in-out;
-z-index: 100;
+z-index: 4;
 text-align: left;
 }
 
 
 #wrapper .textwm {
 visibility:hidden;
-background: rgba(0,0,0,0.1);
+background: rgba(0,0,0,0.5);
 position: absolute;
 top: 50%;
 left: 100%;
@@ -268,14 +268,14 @@ margin-right: 500;
 -ms-transition: all .5s ease-in-out;
 -o-transition: all .5s ease-in-out;
 transition: all .5s ease-in-out;
-z-index: 100;
+z-index: 5;
 text-align: left;
 }
 
 
 #wrapper .textarduino {
 visibility:hidden;
-background: rgba(0,0,0,0.1);
+background: rgba(0,0,0,0.5);
 position: absolute;
 top: 50%;
 left: 100%;
@@ -289,7 +289,7 @@ margin-right: 500;
 -ms-transition: all .5s ease-in-out;
 -o-transition: all .5s ease-in-out;
 transition: all .5s ease-in-out;
-z-index: 100;
+z-index: 6;
 text-align: left;
 }
 
