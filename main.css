@@ -170,7 +170,7 @@ div.RCI{
 /*text boxes*/
 #wrapper .textsolidworks {
 visibility:hidden;
-background: rgba(0,0,0,0.5);
+background: rgba(0,0,0,0.1);
 position: absolute;
 top: 50%;
 left: 100%;
@@ -191,7 +191,7 @@ text-align: left;
 
 #wrapper .textmatlab {
 visibility:hidden;
-background: rgba(0,0,0,0.5);
+background: rgba(0,0,0,0.1);
 position: absolute;
 top: 50%;
 left: 100%;
@@ -212,7 +212,7 @@ text-align: left;
 
 #wrapper .textprinting {
 visibility:hidden;
-background: rgba(0,0,0,0.5);
+background: rgba(0,0,0,0.1);
 position: absolute;
 top: 50%;
 left: 100%;
@@ -233,7 +233,7 @@ text-align: left;
 
 #wrapper .textweb {
 visibility:hidden;
-background: rgba(0,0,0,0.5);
+background: rgba(0,0,0,0.1);
 position: absolute;
 top: 50%;
 left: 100%;
@@ -254,7 +254,7 @@ text-align: left;
 
 #wrapper .textwm {
 visibility:hidden;
-background: rgba(0,0,0,0.5);
+background: rgba(0,0,0,0.1);
 position: absolute;
 top: 50%;
 left: 100%;
@@ -275,7 +275,7 @@ text-align: left;
 
 #wrapper .textarduino {
 visibility:hidden;
-background: rgba(0,0,0,0.5);
+background: rgba(0,0,0,0.1);
 position: absolute;
 top: 50%;
 left: 100%;
