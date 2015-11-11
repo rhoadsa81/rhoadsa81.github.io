@@ -167,6 +167,7 @@ div.RCI{
 	-moz-transition:.3s ;
 	-webkit-transition:.3s;
 	transition:.3s  ;
+	z-index: 101;
 }
 
 /*text boxes*/
