@@ -203,7 +203,7 @@ margin-top:-216px;
 margin-left:-500;
 margin-right: 500;
 -webkit-transition: all .1s ease-in-out; /* adjusts the time of the text box fading out*/
--moz-transition: all .1s ease-in-out;
+-moz-transition: all .1s ease-in-out ;
 -ms-transition: all .1s ease-in-out;
 -o-transition: all .1s ease-in-out;
 transition: all .1s ease-in-out;
