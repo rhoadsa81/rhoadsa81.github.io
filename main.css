@@ -170,6 +170,7 @@ div.RCI{
 }
 
 /*text boxes*/
+/*Left Side*/
 #wrapper .textsolidworks {
 visibility:hidden;
 background: rgba(0,0,0,0.5);
@@ -253,7 +254,7 @@ z-index: 1;
 text-align: left;
 }
 
-
+/*Right Side */
 #wrapper .textwm {
 visibility:hidden;
 background: rgba(0,0,0,0.5);
@@ -262,8 +263,8 @@ top: 50%;
 left: 100%;
 width:750px;
 height:auto;
-margin-top:-675px;
-margin-left:-500;
+margin-top:-64px;
+margin-left:-300;
 margin-right: 500;
 -webkit-transition: all .1s ease-in-out; /* adjusts the time of the text box fading out*/
 -moz-transition: all .1s ease-in-out;
@@ -283,8 +284,8 @@ top: 50%;
 left: 100%;
 width:750px;
 height:auto;
-margin-top:-828px;
-margin-left:-500;
+margin-top:-216px;
+margin-left:-300;
 margin-right: 500;
 -webkit-transition: all .1s ease-in-out; /* adjusts the time of the text box fading out*/
 -moz-transition: all .1s ease-in-out;
@@ -303,8 +304,8 @@ top: 50%;
 left: 100%;
 width:750px;
 height:auto;
-margin-top:-950px;
-margin-left:-500;
+margin-top:-369px;
+margin-left:-300;
 margin-right: 500;
 -webkit-transition: all .1s ease-in-out; /* adjusts the time of the text box fading out*/
 -moz-transition: all .1s ease-in-out;
