@@ -295,6 +295,26 @@ z-index: 1;
 text-align: left;
 }
 
+#wrapper .textpython {
+visibility:hidden;
+background: rgba(0,0,0,0.5);
+position: absolute;
+top: 50%;
+left: 100%;
+width:750px;
+height:auto;
+margin-top:-950px;
+margin-left:-500;
+margin-right: 500;
+-webkit-transition: all .1s ease-in-out; /* adjusts the time of the text box fading out*/
+-moz-transition: all .1s ease-in-out;
+-ms-transition: all .1s ease-in-out;
+-o-transition: all .1s ease-in-out;
+transition: all .1s ease-in-out;
+z-index: 1;
+text-align: left;
+}
+
 #wrapper:hover .text {
 visibility:visible;
 
