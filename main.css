@@ -192,7 +192,7 @@ text-align: left;
 }
 
 
-#wrapper .textmatlab {
+#wrapper .textweb {
 visibility:hidden;
 background: rgba(0,0,0,0.5);
 position: absolute;
@@ -234,7 +234,7 @@ text-align: left;
 }
 
 
-#wrapper .textweb {
+#wrapper .textmatlab {
 visibility:hidden;
 background: rgba(0,0,0,0.5);
 position: absolute;
