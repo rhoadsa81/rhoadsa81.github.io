@@ -451,17 +451,9 @@ span.navigationSpaceEngin{
 }
 
 #containerupper {
-	-moz-column-count:1;
-	-webkit-column-count:1;
-	column-count:1;
+	-moz-column-count:2;
+	-webkit-column-count:2;
+	column-count:2;
 	height:auto; /*750*/
 	width:160%; /*160*/
 }
-#containerlower {
-	-moz-column-count:1;
-	-webkit-column-count:1;
-	column-count:1;
-	height:auto; /*750*/
-	width:50%; /*160*/
-}
-
