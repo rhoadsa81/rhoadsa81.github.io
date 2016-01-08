@@ -263,8 +263,8 @@ top: 50%;
 left: 100%;
 width:750px;
 height:auto;
-margin-top:-64px;
-margin-left:-300;
+margin-top:-675px;
+margin-left:-500;
 margin-right: 500;
 -webkit-transition: all .1s ease-in-out; /* adjusts the time of the text box fading out*/
 -moz-transition: all .1s ease-in-out;
@@ -284,8 +284,8 @@ top: 50%;
 left: 100%;
 width:750px;
 height:auto;
-margin-top:-216px;
-margin-left:-300;
+margin-top:-828px;
+margin-left:-500;
 margin-right: 500;
 -webkit-transition: all .1s ease-in-out; /* adjusts the time of the text box fading out*/
 -moz-transition: all .1s ease-in-out;
@@ -304,8 +304,8 @@ top: 50%;
 left: 100%;
 width:750px;
 height:auto;
-margin-top:-369px;
-margin-left:-300;
+margin-top:-950px;
+margin-left:-500;
 margin-right: 500;
 -webkit-transition: all .1s ease-in-out; /* adjusts the time of the text box fading out*/
 -moz-transition: all .1s ease-in-out;
