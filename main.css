@@ -451,11 +451,10 @@ span.navigationSpaceEngin{
 }
 
 #container {
-	-moz-column-count:1;
+	-moz-column-count:22;
 	-webkit-column-count:2;
-	-webkit-justify-content: center; /* Safari */
-  	justify-content: center;
-	column-count:1;
+	column-count:2;
+	flex-direction:row;
 	height:750px; /*750*/
 	width:160%; /*160*/
 }
