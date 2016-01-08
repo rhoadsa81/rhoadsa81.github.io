@@ -260,11 +260,11 @@ visibility:hidden;
 background: rgba(0,0,0,0.5);
 position: absolute;
 top: 50%;
-left: -70%;
+left: -100%;
 width: 575px;
 height: auto;
 margin-top:-64px;
-margin-left: -500;
+margin-left: -750;
 margin-right: 500;
 -webkit-transition: all .1s ease-in-out; /* adjusts the time of the text box fading out*/
 -moz-transition: all .1s ease-in-out;
