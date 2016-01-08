@@ -454,8 +454,8 @@ span.navigationSpaceEngin{
 	-moz-column-count:1;
 	-webkit-column-count:1;
 	column-count:1;
-	height:500px;
-	width:10%;
+	height:750px; /*750*/
+	width:30%; /*160*/
 }
 
 
