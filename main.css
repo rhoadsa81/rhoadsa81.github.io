@@ -454,14 +454,14 @@ span.navigationSpaceEngin{
 	-moz-column-count:1;
 	-webkit-column-count:1;
 	column-count:1;
-	height:750px; /*750*/
+	height:auto; /*750*/
 	width:50%; /*160*/
 }
 #containerlower {
 	-moz-column-count:1;
 	-webkit-column-count:1;
 	column-count:1;
-	height:750px; /*750*/
+	height:auto; /*750*/
 	width:50%; /*160*/
 }
 
