@@ -264,7 +264,7 @@ left: 0%;
 width:575px;
 height:auto;
 margin-top:-64px;
-margin-left:0;
+margin-left:500;
 margin-right: 500;
 -webkit-transition: all .1s ease-in-out; /* adjusts the time of the text box fading out*/
 -moz-transition: all .1s ease-in-out;
