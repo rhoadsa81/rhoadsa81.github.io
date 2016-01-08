@@ -258,7 +258,7 @@ text-align: left;
 #wrapper .textwm {
 visibility:hidden;
 background: rgba(0,0,0,0.5);
-position: absolute;
+position: relative;
 top: 50%;
 left: 0%;
 width:575px;
