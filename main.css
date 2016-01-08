@@ -457,3 +457,6 @@ span.navigationSpaceEngin{
 	height:auto; /*750*/
 	width:160%; /*160*/
 }
+#containerupper:nth-child(2){
+	flex-direction: row-reverse;
+}
