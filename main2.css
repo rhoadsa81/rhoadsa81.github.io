@@ -16,16 +16,16 @@ h1 {
   font-weight: bold;
 }
 
+.v {
+  display: flex;
+  flex-direction: column;
+}
 
 .vc {
   justify-content: center;
   height: 100%;
 }
 
-.v {
-  display: flex;
-  flex-direction: column;
-}
 
 .hc {
   justify-content: center;
