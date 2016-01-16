@@ -1,1 +1,48 @@
+.vc {
+  justify-content: center;
+  height: 100%;
+}
 
+.v {
+  display: flex;
+  flex-direction: column;
+}
+
+.hc {
+  justify-content: center;
+  height: 100%;
+}
+
+.h {
+  display: flex;
+  flex-direction: column;
+}
+
+.simplebox {
+  margin: 10px;
+}
+
+.nolink {
+  text-decoration: none!;
+  color: black;
+}
+
+.simplebox .title {
+  color: white;
+  font-size: 25px;
+}
+
+.simplebox .body {
+  border: 1px solid;
+  border-radius: 20px;
+  padding: 20px;
+  display: block;
+  max-width: 600px;
+  transition: background-color 0.3s ease;
+  background-color: #DDDDDD;
+}
+
+.icon {
+  height: 200px;
+  max-width: 100%;
+}
