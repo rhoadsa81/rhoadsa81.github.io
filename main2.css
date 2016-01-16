@@ -5,6 +5,18 @@ body {
   background-color: darkred;
 }
 
+h1 {
+  color: white;
+  display: block;
+  font-size: 2em;
+  -webkit-margin-before: .67em;
+  -webkit-margin-after: .67em;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
+  font-weight: bold;
+}
+
+
 .vc {
   justify-content: center;
   height: 100%;
