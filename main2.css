@@ -7,7 +7,7 @@ html,body {
 	height: 100%;
 	margin:0;
   font-family:Terminus;
-  background-color:#222222;
+  background-color:darkred;
 }
 
 h1 {
@@ -115,75 +115,3 @@ hr {
 .project_head {
     font-size: 20px;
 }
-
-
-
-/*
-body {
-  height: 100%;
-  margin: 0;
-  font-family: Termius;
-  background-color: darkred;
-}
-
-h1 {
-  color: white;
-  display: block;
-  font-size: 2em;
-  -webkit-margin-before: .67em;
-  -webkit-margin-after: .67em;
-  -webkit-margin-start: 0px;
-  -webkit-margin-end: 0px;
-  font-weight: bold;
-}
-
-.v {
-  display: flex;
-  flex-direction: column;
-}
-
-.vc {
-  justify-content: center;
-  height: 100%;
-}
-
-
-.hc {
-  justify-content: center;
-  height: 100%;
-}
-
-.h {
-  display: flex;
-  
-}
-
-.simplebox {
-  margin: 10px;
-}
-
-.nolink {
-  text-decoration: none;
-  color: black;
-}
-
-.simplebox .title {
-  color: white;
-  font-size: 25px;
-}
-
-.simplebox .body {
-  border: 1px solid;
-  border-radius: 20px;
-  padding: 20px;
-  display: block;
-  max-width: 600px;
-  transition: background-color 0.3s ease;
-  background-color: #DDDDDD;
-}
-
-.icon {
-  height: 200px;
-  max-width: 100%;
-}
-*/
