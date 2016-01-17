@@ -125,7 +125,7 @@ hr {
 	cursor: pointer;
 }
 
-.hoverinfo:hover  {
+.hoverinfo:hover p {
     background-color: rgba(255, 255, 255, 0.7);
     display: block;
 }
