@@ -66,7 +66,7 @@ hr {
 	display: block;
   max-width:600px;
   transition: background-color 0.3s ease;
-	background-color:#DDDDDD;
+	background-color:#C6C6C6;
 }
 
 .simplebox a:hover .body{
