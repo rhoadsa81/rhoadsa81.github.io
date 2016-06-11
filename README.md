@@ -1,3 +1,3 @@
 # rhoadsa81.github.io
-Alex Rhoads Resume
+An assortment of my projects and of my technical skills
 #
