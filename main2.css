@@ -103,7 +103,7 @@ hr {
 }
 
 .annotate img{
-    max-width:550px;
+    max-width:225px; /*550px*/
 } 
 
 /* Project Header */
@@ -139,6 +139,3 @@ p {
 	color: black;
 }
 
-.imgContainer{
-	float:left;
-}
