@@ -138,3 +138,7 @@ p {
 	display:center;
 	color: black;
 }
+
+.imgContainer{
+	float:left;
+}
