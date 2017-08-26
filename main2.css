@@ -5,7 +5,7 @@
 
 .left{
 	float: left !important;
-	display: inline;
+	display: inline-block;
 }
 
 html,body {
