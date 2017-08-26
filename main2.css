@@ -105,9 +105,7 @@ hr {
 .annotate img{
     max-width:550px; /*550px*/
 } 
-.annotate div{
-    max-width:225px; /*550px*/
-} 
+
 /* Project Header */
 .project_head img {
     height:60px;
