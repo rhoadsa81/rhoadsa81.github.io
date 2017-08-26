@@ -3,6 +3,12 @@
     src: url(/Terminus.ttf);
 }
 
+.left{
+	width: 250 px;
+	height: 250px;
+	float: left;
+}
+
 html,body {
 	height: 100%;
 	margin:0;
