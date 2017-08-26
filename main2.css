@@ -4,7 +4,7 @@
 }
 
 .left{
-	float: left;
+	float: left !important;
 }
 
 html,body {
