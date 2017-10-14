@@ -3,6 +3,13 @@
     src: url(/Terminus.ttf);
 }
 
+.header .profile-content .name {
+    color: #49515a;
+    font-size: 38px;
+    margin-bottom: 5px;
+    margin-top: 30px;
+}
+
 .left{
 	float: left !important;
 	display: inline-block;
