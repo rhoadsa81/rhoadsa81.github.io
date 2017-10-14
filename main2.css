@@ -57,6 +57,7 @@ hr {
 .namec {
 	justify-content: left;
 	width: 100%;
+	text-align: left;
 }
 .vc {
 	justify-content: center;
