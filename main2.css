@@ -55,7 +55,7 @@ hr {
 
 /* center content of column or row */
 .namec {
-	justify-content: left;
+	justify-content: center;
 	width: 100%;
 	text-align: left;
 }
