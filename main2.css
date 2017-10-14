@@ -42,8 +42,19 @@ hr {
 	display: flex;
 }
 
+.name {
+	display: flex;
+}
+
 /* center content of column or row */
 .hc {
+	justify-content: center;
+	width: 100%;
+}
+
+
+/* center content of column or row */
+.namec {
 	justify-content: left;
 	width: 100%;
 }
