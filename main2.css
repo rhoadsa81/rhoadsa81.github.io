@@ -3,6 +3,14 @@
     src: url(/Terminus.ttf);
 }
 
+.rotateimg60 {
+  -webkit-transform:rotate(60deg);
+  -moz-transform: rotate(60eg);
+  -ms-transform: rotate(60deg);
+  -o-transform: rotate(60deg);
+  transform: rotate(60deg);
+}
+
 .left{
 	float: left !important;
 	display: inline-block;
