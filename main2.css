@@ -3,22 +3,6 @@
     src: url(/Terminus.ttf);
 }
 
-.v .vc .profile-content .name {
-    color: #49515a;
-    font-size: 38px;
-    margin-bottom: 5px;
-    margin-top: 30px;
-}
-
-.v .vc .profile-content .desc {
-    color: #778492;
-    font-family: "Lato", arial, sans-serif;
-    font-weight: 400;
-    font-size: 24px;
-    margin-top: 0;
-    margin-bottom: 15px;
-}
-
 .left{
 	float: left !important;
 	display: inline-block;
