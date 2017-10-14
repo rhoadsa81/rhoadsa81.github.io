@@ -44,7 +44,7 @@ hr {
 
 /* center content of column or row */
 .hc {
-	justify-content: center;
+	justify-content: left;
 	width: 100%;
 }
 .vc {
