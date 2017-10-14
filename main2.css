@@ -51,7 +51,9 @@ hr {
 }
 
 .name {
-	display: inline-flex;
+	margin-top:3px; 
+	margin-bottom:3px; 
+	padding-top:3px
 }
 
 /* center content of column or row */
@@ -62,11 +64,6 @@ hr {
 
 
 /* center content of column or row */
-.namec {
-	text-align: left;
-	width: 100%;
-	
-}
 .vc {
 	justify-content: center;
 	height: 100%;
