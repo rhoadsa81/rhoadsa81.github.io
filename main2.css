@@ -43,7 +43,7 @@ hr {
 }
 
 .name {
-	display: flex;
+	display: inline-flex;
 }
 
 /* center content of column or row */
