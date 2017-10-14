@@ -50,7 +50,7 @@ hr {
 	display: flex;
 }
 
-.name {
+.name h1,h2{
 	margin-top:3px; 
 	margin-bottom:3px; 
 	padding-top:3px
