@@ -3,7 +3,7 @@
 	position:relative;
 }    
 
-.enlarge span {
+.enlarge:hover span {
 	position:absolute;
 	left: -9999px;
         visibility: hidden;
